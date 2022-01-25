@@ -1,0 +1,15 @@
+video{
+    animation: animation1;
+}
+
+@keyframes animation1 {
+    0%{
+        left: 0;
+        top: 0;
+    }
+    100%{
+        left: 0;
+        top: 0;
+        transform: rotate(360);
+    }
+}
